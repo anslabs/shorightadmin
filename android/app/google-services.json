@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "844574547637",
+    "firebase_url": "https://shopright-f9e2d.firebaseio.com",
+    "project_id": "shopright-f9e2d",
+    "storage_bucket": "shopright-f9e2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844574547637:android:b1943b8894838d5bbee8fc",
+        "android_client_info": {
+          "package_name": "anslab.net.shoprightapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844574547637-thj424cpij3obnlboskpch4kt5qqc5at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anslab.net.shoprightapp1",
+            "certificate_hash": "0ddde1e761eaf140d2190db694096c08e4bbdf65"
+          }
+        },
+        {
+          "client_id": "844574547637-ol6mmh7od3j507ks1n9fp1ka70qd7ku6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anslab.net.shoprightapp1",
+            "certificate_hash": "d299a71daae2cb34ff6ade5adb1d51807e26fcd9"
+          }
+        },
+        {
+          "client_id": "844574547637-appc0lnaf28kqqtoqaese2pj28cva54o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl17J00iiMHKFKNxVFR_oeR2dXbgXI2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844574547637-appc0lnaf28kqqtoqaese2pj28cva54o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844574547637:android:a90de1b02a62d340bee8fc",
+        "android_client_info": {
+          "package_name": "net.anslabs.shorightadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844574547637-v96vp1qjq05j8f3ldub9ku5hvs308hql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.anslabs.shorightadmin",
+            "certificate_hash": "0ddde1e761eaf140d2190db694096c08e4bbdf65"
+          }
+        },
+        {
+          "client_id": "844574547637-appc0lnaf28kqqtoqaese2pj28cva54o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl17J00iiMHKFKNxVFR_oeR2dXbgXI2Gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844574547637-appc0lnaf28kqqtoqaese2pj28cva54o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
